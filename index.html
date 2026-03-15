@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QR & Barcode Generator</title>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.5/dist/JsBarcode.all.min.js"></script>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>QR & Barcode Generator</h2>
+<p class="subtitle">Enter text or link to generate QR or Barcode</p>
+
+<input id="textInput" type="text" placeholder="Enter link or text">
+
+<div class="buttons">
+<button onclick="generateQR()">📱 Generate QR Code</button>
+<button onclick="generateBarcode()">📄 Generate Barcode</button>
+</div>
+
+<div class="grid">
+
+<div class="card">
+<h3>QR Code</h3>
+<div id="qr"></div>
+</div>
+
+<div class="card">
+<h3>Barcode</h3>
+<svg id="barcode"></svg>
+</div>
+
+</div>
+
+<p id="display"></p>
+
+<div class="downloads">
+<button onclick="downloadQR()">💾 Download QR</button>
+<button onclick="downloadBarcode()">💾 Download Barcode</button>
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
