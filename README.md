@@ -2,13 +2,11 @@
 
 A modern, lightweight web application to **generate and scan QR codes and barcodes** directly in the browser. Built using pure frontend technologies, this tool is fast, privacy-friendly, and easy to use.
 
----
 
 ## 🌐 Live Demo
 
 🔗 https://harsha-qrbarcode.netlify.app/
 
----
 
 ## ✨ Features
 
@@ -19,7 +17,6 @@ A modern, lightweight web application to **generate and scan QR codes and barcod
 - Fast and responsive user interface  
 - Fully client-side (no data stored or sent to server)  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +25,6 @@ A modern, lightweight web application to **generate and scan QR codes and barcod
   - QR Code generation library  
   - Barcode/QR scanning library  
 
----
 
 ## 🚀 How to Run the Project
 
@@ -37,7 +33,6 @@ A modern, lightweight web application to **generate and scan QR codes and barcod
 3. Double-click `index.html`  
 4. The application will open in your browser  
 
----
 
 ## 📱 Use Cases
 
@@ -47,13 +42,11 @@ A modern, lightweight web application to **generate and scan QR codes and barcod
 - Event tickets and passes  
 - Contact information sharing  
 
----
 
 ## 🎯 Purpose of the Project
 
 This project was created to practice frontend web development and to understand how QR code generation and barcode scanning systems work using browser-based technologies.
 
----
 
 ## 👩‍💻 Author
 
