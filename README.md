@@ -28,10 +28,10 @@ A modern, lightweight web application to **generate and scan QR codes and barcod
 
 ## 🚀 How to Run the Project
 
-1. Download or clone the repository  
-2. Open the project folder  
-3. Double-click `index.html`  
-4. The application will open in your browser  
+1. Download or clone the repository.
+2. Open the project folder.
+3. Double-click `index.html`.
+4. The application will open in your browser.
 
 
 ## 📱 Use Cases
