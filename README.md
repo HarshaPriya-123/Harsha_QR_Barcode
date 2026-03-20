@@ -1,4 +1,4 @@
-# 🔳 Harsha QR & Barcode Generator
+# 📷 Harsha QR & Barcode Generator
 
 A modern, lightweight web application to **generate and scan QR codes and barcodes** directly in the browser. Built using pure frontend technologies, this tool is fast, privacy-friendly, and easy to use.
 
